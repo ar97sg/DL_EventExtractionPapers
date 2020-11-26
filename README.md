@@ -1,4 +1,15 @@
+=======
 
+# Todo
+[] gather repos
+[] upload lit_review.xlsx and edit this README.md
+[] verify repos
+[] create transformer ver
+[] fix my n20
+[] fuse all repos
+[] upload datasets
+
+=======
 
 Based on [BaptisteBlouin](https://github.com/BaptisteBlouin/EventExtractionPapers), I review papers about **Deep Learning based Event Extraction**, and annotate **keywords and Abbreviation of Models**. Besides, I categorized the papers as **Chinese Event Extraction, Open-domain Event Extraction, Event Data Generation, Cross-lingual Event Extraction, Few-Shot Event Extraction and Zero-Shot Event Extraction**, **Document-level EE**. 
 
